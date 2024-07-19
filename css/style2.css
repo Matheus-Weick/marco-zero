@@ -1,0 +1,40 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: purple;
+}
+header h2{
+    margin-bottom: 2rem;
+    color: yellow;
+}
+header a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+main {
+    background-color: purple;
+}
+main h1 {
+    padding-top: 5rem;
+
+}
+main h2 {
+    padding-top: 2rem;
+}
+main p {
+    font-size: 1.2rem;
+    text-align: start;
+}
+footer {
+    background-color: purple;
+}
+footer li {
+    list-style-type: none;
+}
+footer a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
